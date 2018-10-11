@@ -14,7 +14,7 @@ $ bundle install
 ```
 This will install all the dependencies needed for the exercises.
 
-##💎Gem used : 
+## 💎 Gem used : 
 
 gem 'nokogiri', ' 1.8.5'
 gem 'awesome_print', '1.2.0'
