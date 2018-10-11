@@ -1,17 +1,17 @@
 require 'nokogiri'
 require 'open-uri'
 
-page = Nokogiri::XML(open("https://www.nosdeputes.fr/deputes/enmandat/xml"))
+page = Nokogiri::XML(open("https://www.nosdeputes.fr/deputes/enmandat/xml"))#Récupère le xml
 
-@namel = []
+@namel = []#init les array 
 @namef = []
 @emails = []
 
 def first_last(page)
 
-  page.css("nom_de_famille").each do |y|
-    y = y.text
-    @namel << y
+  page.css("nom_de_famille").each do |y|#récupère chaque élément de la balise nom_de_famille
+    y = y.text#le conv en texte
+    @namel << y #et l'ajoute à l'array
     end
 
   page.css("prenom").each do |x|
