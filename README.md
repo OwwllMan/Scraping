@@ -19,7 +19,7 @@ This will install all the dependencies needed for the exercises.
 gem 'nokogiri', ' 1.8.5' <br>
 gem 'awesome_print', '1.2.0'
 
-## :european_post_office: The Strasbourgeois Crew
+## :european_post_office: The Strasbourg Crew
 Done with @zOmegad, @BrokenPirate, @mxrch, and myselft @OwwllMan
 
 <hr>
