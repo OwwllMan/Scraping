@@ -1,7 +1,7 @@
 # The Hacking Project - 
 
 
-## :mag: The content
+## 📰 The content
 In these exercises, I had to do scrapping for :
 * Retrieve emails from the town halls of a department on https://www.annuaire-des-mairies.com/
 * Retrieve the price of cryptocurrencies on Coinmarketcap (https://coinmarketcap.com/)
