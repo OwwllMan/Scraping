@@ -1,4 +1,4 @@
-# The Hacking Project - The Crazy Scrapper
+# The Hacking Project - 
 
 
 ## :mag: The content
