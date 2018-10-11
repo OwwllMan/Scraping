@@ -27,7 +27,7 @@ def  get_all_crypto_price(url)
 	def final 
 		cryptoHash = Hash[cryptoName.zip(cryptoPrice)]
 		for crypto in cryptoHash.keys
-			puts "Le cours de la cryptomonnaie #{crypto} est à :#{cryptoHash[crypto]}" 
+			puts "Le cours de la cryptomonnaie #{crypto} est à :#{cryptoHash[crypto]}.red" 
 		end
 	end
 	final
