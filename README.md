@@ -20,7 +20,7 @@ gem 'nokogiri', ' 1.8.5' <br>
 gem 'awesome_print', '1.2.0'
 
 ## :european_post_office: The Strasbourg Crew 💪
-Done with @zOmegad, @BrokenPirate, @mxrch, and myselft @OwwllMan
+Done with @zOmegad, @BrokenPirate, @mxrch, and myself @OwwllMan
 
 <hr>
 
